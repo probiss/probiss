@@ -85,10 +85,3 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=probiss.probiss&left_color=darkorange&right_color=turquoise&left_text=Say My Name"  />
-</div>
-
-###
